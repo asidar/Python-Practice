@@ -1,4 +1,4 @@
-text="Hello! This is a sample text."
+text= "Hello! This is a sample text."
 wnum = 1
 cnum = 0
 for i in text:
